@@ -1,0 +1,1 @@
+python run_squad_train.py  --output_dir="${1}"

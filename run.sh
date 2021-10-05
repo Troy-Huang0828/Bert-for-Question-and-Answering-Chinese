@@ -1,0 +1,1 @@
+python run_squad.py  --context_file="${1}"  --val_file="${2}" --output_dir="${3}"
